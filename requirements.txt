@@ -1,0 +1,4 @@
+flask
+google-cloud-translate==3.12.0
+pymupdf
+gunicorn
